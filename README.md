@@ -1,2 +1,5 @@
 # hello-world
 A learning exercise. Greetings to the planet.
+This is the readme file for my project:
+
+John is interested in anything computational and related to molecules. After a PhD in theoretical chemistry, his first postdoc was in Biochemistry at UCL. He has been a lecturer at Birkbeck and at Cambridge, before coming to St Andrews in 2009. Since then, he has done lots of chemoinformatics, quite a lot of bioinformatics and only a little real theoretical chemistry. His scientific interests include computing the binding affinities between proteins and ligands, side-effects and toxicities of pharmaceuticals, and how much of a compound will dissolve in water. His group have worked extensively on the prediction of molecular properties such as melting point and solubility from chemical structure. They also use computational methods to study enzyme reaction mechanisms. They continue to develop the MACiE database of enzyme reaction mechanisms in collaboration with Prof. Janet Thornton at the EMBL-EBI.
